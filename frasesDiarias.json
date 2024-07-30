@@ -1,6 +1,6 @@
 {
   "frases": [
-    // Categoría: Biblia
+   
     {
       "id": 1,
       "frase_del_dia": "El Señor es mi pastor, nada me falta.",
@@ -62,7 +62,7 @@
       "autor": "Salmo 34:18"
     },
 
-    // Categoría: Humor
+    
     {
       "id": 11,
       "frase_del_dia": "No te tomes la vida demasiado en serio; nunca saldrás vivo de ella.",
@@ -124,7 +124,6 @@
       "autor": "Horace Walpole"
     },
 
-    // Categoría: Motivación
     {
       "id": 21,
       "frase_del_dia": "El único modo de hacer un gran trabajo es amar lo que haces.",
@@ -186,7 +185,7 @@
       "autor": "Robert Collier"
     },
 
-    // Categoría: Amor
+   
     {
       "id": 31,
       "frase_del_dia": "Amar no es solo mirar al otro, es mirar juntos en la misma dirección.",
@@ -248,7 +247,6 @@
       "autor": "Mahatma Gandhi"
     },
 
-    // Categoría: Sabiduría
     {
       "id": 41,
       "frase_del_dia": "La sabiduría comienza en la maravilla.",
